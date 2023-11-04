@@ -45,6 +45,7 @@ void dfs(int x,int f,int deep,L p,L q) {
 }
 int main(){
     //这是第一次修改的内容
+    //这是B2修改的内容
     //freopen("1.in","r",stdin);
     int t;
     read(t);
